@@ -21,13 +21,13 @@ function contactTrigger(){
         var arr=string.trim().split(/\n| /)
         if(arr.length <10 && arr.length<150){
             alert("Message should be of 10-150 words")
-            console.log(arr)
+            
             
         }
         else{
             console.log(name)
             console.log(email)
-            console.log(message)
+            console.log(string)
         }
     }
 
