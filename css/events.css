@@ -210,7 +210,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: default;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -241,6 +241,13 @@
     height: 350.00px;
     left: 0.00px;
     top: 0.00px;
+    color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 30.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Product Sans', Arial;
+      text-decoration: none;
 
 }
 
@@ -254,7 +261,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: default;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -285,6 +292,13 @@
     height: 350.00px;
     left: 750.00px;
     top: 0.00px;
+    color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 30.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Product Sans', Arial;
+      text-decoration: none;
 
 }
 
@@ -298,7 +312,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: default;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -329,6 +343,13 @@
     height: 350.00px;
     left: 375.00px;
     top: 0.00px;
+    color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 30.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Product Sans', Arial;
+      text-decoration: none;
 
 }
 
@@ -342,7 +363,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: default;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -373,6 +394,13 @@
     height: 350.00px;
     left: 1125.00px;
     top: 0.00px;
+    color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 30.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Product Sans', Arial;
+      text-decoration: none;
 
 }
 
@@ -457,7 +485,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: default;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -488,6 +516,13 @@
     height: 350.00px;
     left: 0.00px;
     top: 0.00px;
+    color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 30.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Product Sans', Arial;
+      text-decoration: none;
 
 }
 
@@ -501,7 +536,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: default;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -532,6 +567,13 @@
     height: 350.00px;
     left: 750.00px;
     top: 0.00px;
+    color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 30.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Product Sans', Arial;
+      text-decoration: none;
 
 }
 
@@ -545,7 +587,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: default;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -576,6 +618,13 @@
     height: 350.00px;
     left: 375.00px;
     top: 0.00px;
+    color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 30.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Product Sans', Arial;
+      text-decoration: none;
 
 }
 
@@ -589,7 +638,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: default;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -620,6 +669,13 @@
     height: 350.00px;
     left: 1125.00px;
     top: 0.00px;
+    color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 30.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Product Sans', Arial;
+      text-decoration: none;
 
 }
 
@@ -704,7 +760,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: default;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -735,7 +791,13 @@
     height: 350.00px;
     left: 0.00px;
     top: 0.00px;
-
+    color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 30.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Product Sans', Arial;
+      text-decoration: none;
 }
 
 .events .group15 .group11 .rectangle18 {
@@ -748,7 +810,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: default;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -779,6 +841,13 @@
     height: 350.00px;
     left: 750.00px;
     top: 0.00px;
+    color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 30.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Product Sans', Arial;
+      text-decoration: none;
 
 }
 
@@ -792,7 +861,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: default;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -823,6 +892,13 @@
     height: 350.00px;
     left: 375.00px;
     top: 0.00px;
+    color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 30.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Product Sans', Arial;
+      text-decoration: none;
 
 }
 
@@ -836,7 +912,7 @@
     -webkit-transform-origin: center;
     transform-origin: center;
       opacity: 1;
-      cursor: default;
+      cursor: pointer;
       margin-top: 0.00px;
       margin-right: 0.00px;
       margin-bottom: 0.00px;
@@ -867,6 +943,13 @@
     height: 350.00px;
     left: 1125.00px;
     top: 0.00px;
+    color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 30.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: 'Product Sans', Arial;
+      text-decoration: none;
 
 }
 
