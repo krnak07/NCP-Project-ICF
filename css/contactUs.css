@@ -701,6 +701,7 @@
     height: 30.00px;
     left: 331.00px;
     top: 368.00px;
+    cursor: pointer;
 
 }
 
@@ -741,7 +742,7 @@
     height: 24.00px;
     left: 369.00px;
     top: 371.00px;
-
+    cursor: pointer;
 }
 
 .contactUs .footerBar {
